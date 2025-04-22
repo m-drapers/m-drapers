@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Milou Drapers</h1>
 <h3 align="center">Data Science and AI student at Maastricht University</h3>
 
-- 🔭 I’m currently working on end thesis on MRI image segmentation of the Inner Ear 
+- 🔭 I’m currently working on my bachelor thesis on MRI image segmentation of the Inner Ear 
 
 - 📄 Know about my experiences [www.linkedin.com/in/milou-drapers](www.linkedin.com/in/milou-drapers)
 
