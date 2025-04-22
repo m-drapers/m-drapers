@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQEWdzDlhNfS3g/profile-displaybackgroundimage-shrink_350_1400/0/1713445347107?e=1722470400&v=beta&t=k_ki4ASlLyW87ySJtEvymcp5O5bbwpJwTrdmbfw_qzo" alt="Image">
-
 <h1 align="center">Hi , I'm Milou Drapers</h1>
 <h3 align="center">Data Science and AI student at Maastricht University</h3>
 
